@@ -13,6 +13,6 @@ Utils.java``` file and change the email, password and companyName.
 
 3- import the ```auth.sql``` in the sql server and default password is ```""```(empty) so change the sql password in java files.
 ## Demo
-https://raw.githubusercontent.com/ridamnibjia/2fa-java/main/img/register.png
+![alt text](https://raw.githubusercontent.com/ridamnibjia/2fa-java/main/img/register.png)
 
-https://raw.githubusercontent.com/ridamnibjia/2fa-java/main/img/login.png
+![alt text](https://raw.githubusercontent.com/ridamnibjia/2fa-java/main/img/login.png)
